@@ -11,6 +11,8 @@ nav {
   .logo {
     @include flex(flex-start, center, row);
     flex: 1 1 10rem;
+    height: 100%;
+    width: 100%;
     h1 {
       margin: 2rem;
     }
